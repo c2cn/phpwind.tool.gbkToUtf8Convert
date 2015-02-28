@@ -9,7 +9,7 @@
 1.解压转成程序~得到convert文件夹~
 2.将convert文件夹整个上传到你的pw程序目录下~
 3.将你的pw整个网站目录以及文件全部设置为777权限~
-    Liunx设置方法：
+    Linux设置方法：
         设置目录：
             # find your_web_path -type d -exec chmod 777 {} \;
         设置文件：

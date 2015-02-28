@@ -117,7 +117,7 @@ class Index extends WindController {
 	public function dbAction() {
 		switch(intval($this->getInput('step'))) {
 			case 3:
-				$limit = 1000;
+				$limit = 100;
 				$id    = $this->getInput('id');
 				$id or $id = 1;
 				$id    = intval($id);
