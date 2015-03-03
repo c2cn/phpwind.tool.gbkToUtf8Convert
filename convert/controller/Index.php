@@ -2,11 +2,10 @@
 /**
  * 默认的 controller
  *
- * @author Shi Long <long.shi@alibaba-inc.com>
- * @copyright ©2003-2103 phpwind.com
- * @license http://www.windframework.com
+ * @author Medz Seven <lovevipdsw@vip.qq.com>
+ * @copyright ©2012-2015 medz.cn
+ * @license http://www.medz.cn
  * @version $Id$
- * @package demos.blog.controller
  */
 class Index extends WindController {
 
